@@ -69,7 +69,8 @@ The lab provides an isolated and controlled environment for cybersecurity learni
 
 7. **Step 5: Configure Kali Network**  
    Assigned a static IPv4 address (`10.0.0.2`), subnet mask (`255.255.255.0`), gateway (`10.0.0.1`), and DNS (`8.8.8.8`).
-  ![Kali Static IP](kali-network-setting.png)
+   
+     ![Kali Static IP](kali-network-setting.png)
 
 9. **Step 6: Create a Clean VM Snapshot**  
    Took a base snapshot named `Clean Kali - Network Setup` for easy restoration in case of misconfigurations.
